@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]
+aiosqlite
+feedparser
+google-generativeai
+beautifulsoup4
+python-dotenv
+playwright
